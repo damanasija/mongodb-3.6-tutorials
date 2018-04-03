@@ -11,3 +11,9 @@
 4) Installing MongoDB(Mac) :- https://youtu.be/_WJ8m5QHvwc
 5) Installing MongoDB(Windows):- https://youtu.be/sBdaRlgb4N8
 6) JSON :- https://youtu.be/YgE9GugiB58
+7) BSON :- 
+
+
+
+### Week 2: CRUD Operations
+1) Creating Documents:- https://youtu.be/UYz8EYa2TnA
