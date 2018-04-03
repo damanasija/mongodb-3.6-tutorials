@@ -5,3 +5,5 @@
 # Week 1: Introduction
 1) Welcome to M101JSL :- https://www.youtube.com/watch?v=04N3Z0k5RuA
 2) What is MongoDB :- https://youtu.be/L-v-PBVLSe4
+3) Overview of building an app with MongoDB:- https://youtu.be/iIhgggzzeoA
+4) Installing MongoDB(Mac) :- https://youtu.be/_WJ8m5QHvwc
